@@ -9,18 +9,57 @@
       <category id="155">Пральні машиини</category>
     </categories>
     <offers>
+      <offer id="139000011" available="true">
+        <price>16659</price>
+        <salePrice>14299</salePrice>
+        <currencyId>UAH</currencyId>
+        <categoryId>139</categoryId>
+        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_139_4671_0_1_oscSCc.jpg</picture>
+        <name>Пральна машина HISENSE WF3S7021BW/UA (WF3S7021BW)</name>
+        <vendor>HISENSE</vendor>
+        <vendor_code>20015553</vendor_code>
+        <description>&lt;h3&gt; Hisense WF3S7021BW/UA: інноваційна автоматична пральна машина &lt;/h3&gt;
+        <partPayment value="credit_privat" grace="19"/>
+        <partPayment value="credit_mono" grace="8"/>
+        <param name="Тип машини">автоматична</param>
+        <param name="Тип машини">пральна машина</param>
+        <param name="Максимальне завантаження" unit="кг">7</param>
+        <param name="Кількість обертів" unit="об./хв.">1200</param>
+        <param name="Клас енергозбереження">A</param>
+        <param name="Тип двигуна">інверторний</param>
+        <param name="Додаткові функції">самоочищення барабану</param>
+        <param name="Додаткові функції">з парою</param>
+        <param name="Додаткові функції">можливість дозавантаження білизни</param>
+        <param name="Ширина" unit="см">59.5</param>
+        <param name="Глибина" unit="см">43.5</param>
+        <param name="Програми">автоматична, Еко 40–60°C</param>
+        <param name="Тип завантаження">фронтальне</param>
+        <param name="Клас віджиму (залишковий вміст вологи)">В (45-53 %)</param>
+        <param name="Бак">нержавіюча сталь</param>
+        <param name="Колір">білий</param>
+        <param name="Керування">механічне + сенсорне</param>
+        <param name="Функції керування">регулювання швидкості віджиму</param>
+        <param name="Функції керування">індикація ходу програми</param>
+        <param name="Функції керування">регулювання температури</param>
+        <param name="Функції керування">дисплей</param>
+        <param name="Кількість програм прання">16</param>
+        <param name="Захист">від переливу</param>
+        <param name="Захист">контроль піноутворення</param>
+        <param name="Захист">контроль дисбалансу</param>
+        <param name="Висота" unit="см">84.5</param>
+        <param name="Вага" unit="кг">59</param>
+        <param name="Вага в упаковці" unit="кг">61</param>
+        <param name="Габарити в упаковці" unit="см">65х88х49.5</param>
+        <param name="Потужність">1600 Вт</param>
+        <param name="Гарантія" unit="міс">24</param>
+        <param name="Установка">Пральні машини</param>
+      </offer>
       <offer id="154000011" available="true">
         <price>3334</price>
         <salePrice>3299</salePrice>
         <currencyId>UAH</currencyId>
         <categoryId>154</categoryId>
         <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_AFvMrM.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_NWXG08.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_BPptBz.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_SBp0Eq.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_gwc1c4.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_vAupc9.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1839_0_1_Tp62Ap.jpg</picture>
         <name>Мікрохвильова піч LIBERTON LMW-2083E Black</name>
         <vendor>LIBERTON</vendor>
         <vendor_code>LMW-2083E Black</vendor_code>
@@ -68,23 +107,10 @@
         <currencyId>UAH</currencyId>
         <categoryId>154</categoryId>
         <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1883_0_1_b4HkpN.jpg</picture>
-        <picture>https://files.foxtrot.com.ua/PhotoNew/img_0_154_1883_0_1_x3lpAm.jpg</picture>
         <name>Мікрохвильова піч HANSA AMG20IFH</name>
         <vendor>HANSA</vendor>
         <vendor_code>1103145</vendor_code>
         <description>&lt;h3&gt; Мікрохвильова піч HANSA AMG20IFH: поєднання стилю та функціональності &lt;/h3&gt;
-          &lt;p&gt;Мікрохвильова піч HANSA AMG20IFH - це сучасний пристрій, що поєднує в собі естетичний дизайн та високі технологічні можливості. Виготовлена з нержавіючої сталі, ця модель не лише додає елегантності вашій кухні, а й забезпечує довговічність та легкість в догляді. Завдяки об'єму в 20 літрів, вона ідеально підходить для середньої сім'ї, забезпечуючи достатньо простору для різноманітних страв.&lt;/p&gt;
-
-          &lt;h3&gt; Висока продуктивність та різноманітність програм &lt;/h3&gt;
-          &lt;p&gt;Мікрохвильова піч HANSA AMG20IFH оснащена потужністю мікрохвиль 800 Вт, що забезпечує швидке та рівномірне приготування їжі. Кварцовий гриль потужністю 1000 Вт дозволяє досягти ідеальної скоринки на ваших стравах. З шістьма рівнями потужності, ця модель надає повний контроль над процесом приготування, що дозволяє досягти бажаних результатів з максимальною точністю.&lt;/p&gt;
-
-          &lt;p&gt;Піч пропонує 9 програм приготування, серед яких такі популярні страви, як супи, кава, рис, спагеті, картопля, риба, курка, яловичина/баранина, а також інші види м'яса. Завдяки автоматичному розігріву, ви можете швидко та зручно нагріти їжу без необхідності налаштовувати параметри вручну. Додаткова функція швидкого старту забезпечує миттєве включення, що є ідеальним рішенням для тих, хто цінує свій час.&lt;/p&gt;
-
-          &lt;h3&gt; Зручність використання та безпека &lt;/h3&gt;
-          &lt;p&gt;Мікрохвильова піч HANSA AMG20IFH має механічні кнопки та поворотний регулятор, що забезпечують інтуїтивно зрозуміле управління. Таймер на 95 хвилин дозволяє точно контролювати час приготування, запобігаючи перегріву страв. Діаметр скляного поворотного столу становить 25 см, що забезпечує достатньо місця для розміщення великих тарілок.&lt;/p&gt;
-
-          &lt;p&gt;Відкривання печі здійснюється за допомогою кнопки, що робить процес доступу до страв максимально простим та зручним. Внутрішнє покриття з нержавіючої сталі забезпечує легке очищення та підтримку гігієнічності. Завдяки своїм розмірам - ширина 59,4 см, висота 38,9 см, глибина 32,5 см - ця модель легко впишеться в будь-який кухонний інтер'єр.&lt;/p&gt;
-
           &lt;p&gt;Мікрохвильова піч HANSA AMG20IFH - це надійний вибір для тих, хто цінує якість, продуктивність та стиль. З гарантією на 12 місяців, ви можете бути впевнені в довговічності та ефективності цього пристрою.&lt;/p&gt;</description>
         <partPayment value="credit_privat" grace="19"/>
         <partPayment value="credit_mono" grace="8"/>
