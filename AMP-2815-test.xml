@@ -40,7 +40,6 @@
         <partPayment value="credit_privat" grace="19"/>
         <partPayment value="credit_mono" grace="6"/>
         <param name="Тип машини">автоматична</param>
-        <param name="Тип машини">пральна машина</param>
         <param name="Максимальне завантаження" unit="кг">7</param>
         <param name="Кількість обертів" unit="об./хв.">1200</param>
         <param name="Клас енергозбереження">A+++</param>
@@ -53,7 +52,7 @@
         <param name="Клас прання">A+++</param>
         <param name="Клас віджиму (залишковий вміст вологи)">В (45-53 %)</param>
         <param name="Колір">білий</param>
-        <param name="Керування">механічне</param>
+        <param name="Керування">механічне + сенсорне</param>
         <param name="Функції керування">індикація ходу програми</param>
         <param name="Функції керування">акустичний сигнал завершення програми</param>
         <param name="Функції керування">регулювання температури</param>
